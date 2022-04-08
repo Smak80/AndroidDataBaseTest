@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DataBaseTest</string>
+    <string name="changeFragmentBtn">Change View</string>
+    <string name="person_salary">Person\'s Salary</string>
+    <string name="person_age">Person\'s Age</string>
+    <string name="person_name">Person\'s Name</string>
+    <string name="format">Name: %s, Age: %d, Salary (%f)</string>
 </resources>
